@@ -6,6 +6,8 @@ VSoma is a Visual Studio Code extension to play [SomaFM](https://somafm.com/) ra
 
 [![Build](https://github.com/vascomfnunes/vsoma/actions/workflows/build.yml/badge.svg)](https://github.com/vascomfnunes/vsoma/actions/workflows/build.yml)
 
+![](https://vsmarketplacebadge.apphb.com/version/vasco-nunes.vsoma.svg)
+
 - [VSoma](#vsoma)
   - [Features](#features)
   - [Requirements](#requirements)
