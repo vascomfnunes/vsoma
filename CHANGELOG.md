@@ -4,6 +4,7 @@ All notable changes to the "vsoma" extension will be documented in this file.
 
 ## [Unreleased]
 
+- Bump simple-get from 3.1.0 to 3.1.1
 - Bump minimist from 1.2.5 to 1.2.6
 
 ---
