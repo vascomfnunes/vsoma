@@ -4,7 +4,7 @@ All notable changes to the "vsoma" extension will be documented in this file.
 
 ## [Unreleased]
 
-- n/a
+- Bump minimist from 1.2.5 to 1.2.6
 
 ---
 
